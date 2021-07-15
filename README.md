@@ -1,7 +1,6 @@
  👋 Hi, I’m @MattE4
 
-I’m an engineer from Germany who is just programming occationally with Python.
-
+I’m an engineer who is just programming occationally with Python.
 
 
 <!---
